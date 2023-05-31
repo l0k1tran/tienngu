@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         String ditmemaytien="tu tien sang lui";
-        String quevl="hello qq";
+
     }
 }
